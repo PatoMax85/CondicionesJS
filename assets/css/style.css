@@ -1,0 +1,47 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100vh;
+    margin: 0;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+.contenedor .verificador{
+    display: block;
+}
+.contenedor {
+    gap: 20px;
+    display: flex;
+}
+#miBoton{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#mensaje{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+#caballeros{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    
+}
+#slamdunk{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    
+}
+#supercampeones{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    
+}
